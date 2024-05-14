@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Nuratiqah/IdeaProjects/KotlinTest/app/src/main/res/drawable-v24/button_bg.xml" value="0.168" />
+        <entry key="..\:/Users/Nuratiqah/IdeaProjects/KotlinTest/app/src/main/res/drawable/ic_add.xml" value="0.168" />
+        <entry key="..\:/Users/Nuratiqah/IdeaProjects/KotlinTest/app/src/main/res/drawable/login_bg.xml" value="0.168" />
+        <entry key="..\:/Users/Nuratiqah/IdeaProjects/KotlinTest/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/Users/Nuratiqah/IdeaProjects/KotlinTest/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Nuratiqah/IdeaProjects/KotlinTest/app/src/main/res/layout/bottom_navigation_menu.xml" value="0.253125" />
+        <entry key="..\:/Users/Nuratiqah/IdeaProjects/KotlinTest/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nuratiqah/IdeaProjects/KotlinTest/app/src/main/res/layout/fragment_new_contact.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nuratiqah/IdeaProjects/KotlinTest/app/src/main/res/layout/fragment_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nuratiqah/IdeaProjects/KotlinTest/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
